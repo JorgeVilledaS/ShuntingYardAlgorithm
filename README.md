@@ -77,3 +77,7 @@ PROBLEMAS PARTICULARES DE LAS REGEX (y cómo los resolvimos)
    operadores unarios postfijos con precedencia 4, y por tanto NUNCA deben
    producir una concatenación insertada antes de ellos (p. ej. en "a+", no
    se debe insertar "a·+", debe quedar "a" seguido directamente de "+").
+
+LINK AL VIDEO
+==============================================================================
+https://www.youtube.com/watch?v=suf_g164CGM 
